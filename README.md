@@ -1,6 +1,6 @@
 # Nicolas Bianchini
 
-### Infrastructure • Réseaux • Sécurité • Haute Disponibilité
+### Infrastructure • Réseaux • Sécurité 
 
 ---
 
@@ -8,13 +8,14 @@ Technicien Infrastructure & Réseau basé à Lyon.
 
 Depuis 2021, j’interviens en production sur des environnements PME :
 
-- Administration Active Directory (GPO, NTFS)
-- Déploiement automatisé (MDT / WDS)
-- Firewalling & segmentation (VLAN / DMZ / VPN)
-- Virtualisation (Proxmox / Hyper-V)
-- Supervision & sauvegarde
+- Support technique N1/N2 (diagnostic & résolution d’incidents systèmes et réseaux)
+- Administration Active Directory (utilisateurs, groupes, GPO, droits NTFS)
+- Déploiement automatisé de postes (MDT / WDS, intégration domaine, VPN)
+- Installation et configuration de serveurs Windows (RAID, rôles AD, RDS)
+- Mise en place d’environnements virtualisés sous Hyper-V
+- Participation aux migrations de messagerie et déploiement de sauvegardes
 
-🎯 Objectif : évoluer vers des fonctions d’ingénierie infrastructure & sécurité.
+🎯 Objectif : approfondir mes compétences en infrastructure et sécurité afin d’évoluer vers des environnements techniques à plus forte responsabilité.
 
 ---
 
