@@ -13,7 +13,7 @@ Depuis 2021, j’interviens en production sur des environnements PME :
 - Déploiement automatisé de postes (MDT / WDS, intégration domaine, VPN)
 - Installation et configuration de serveurs Windows (RAID, rôles AD, RDS)
 - Mise en place d’environnements virtualisés sous Hyper-V
-- Participation aux migrations de messagerie et déploiement de sauvegardes
+- Participation a la mise en place de nouvelles infrastructures, migrations de messagerie et déploiement de sauvegardes
 
 🎯 Objectif : approfondir mes compétences en infrastructure et sécurité afin d’évoluer vers des environnements techniques à plus forte responsabilité.
 
