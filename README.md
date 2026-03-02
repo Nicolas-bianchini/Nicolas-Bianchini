@@ -38,5 +38,5 @@
 
 ---
 
-#### 📫 Me contacter  
+## 📫 Me contacter  
 #### [LinkedIn](https://www.linkedin.com/in/bianchini-nicolas)
