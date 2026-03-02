@@ -1,52 +1,38 @@
-# 👋 Bonjour, je suis Nicolas Bianchini
+# Bonjour, je suis Nicolas Bianchini
 
-Technicien Infrastructure & Réseau  
-Orienté Architecture Sécurisée & Cybersécurité  
-Basé à Lyon 🇫🇷  
+👋 Bienvenue sur mon GitHub.
 
----
+Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a la sécurisation des infrastructures et à la cybersécurité.
 
-## 🧠 Ce que je construis
+Ici, je conçois et documente des environnements virtualisés avec une approche orientée sécurité et haute disponibilité.
 
-Je conçois des environnements virtualisés sécurisés inspirés d’architectures réelles :
-
-- Segmentation réseau
-- Haute disponibilité
-- Services en DMZ
-- Accès sécurisé via VPN
-- Supervision & sauvegarde
+🌱 J’approfondis actuellement mes compétences en architecture réseau, administration systèmes et cybersécurité défensive / offensive
 
 ---
 
-# 🚀 Projet mis en avant
+## 🔒 Projet principal
 
-## 🔒 Infrastructure Sécurisée – Haute Disponibilité
+J’ai conçu une infrastructure complète en haute disponibilité comprenant :
 
-Architecture complète comprenant :
+• Pare-feu en HA (CARP)  
+• Segmentation réseau (vSwitch) 
+• Accès distant sécurisé via VPN  
+• Environnement Active Directory  
+• Service exposé en DMZ  
+• Supervision et stratégie de sauvegarde  
 
-• Firewall HA (CARP)  
-• segmentation  
-• VPN sécurisé  
-• Active Directory  
-• Service en DMZ  
-• Sauvegarde & supervision 
-• Hardening système et réseau
-
-
-👉 Voir le projet :  
-https://github.com/Nicolas-bianchini/Secure-Infrastructure-HA
+👉 Documentation complète :  
+[Secure Infrastructure – HA](https://github.com/Nicolas-bianchini/Secure-Infrastructure-HA)
 
 ---
 
-## 📂 Portfolio complet
+## 📁 Portfolio
 
-Présentation détaillée, compétences, parcours et vision :
+Une présentation plus détaillée de mon parcours, de mes projets et de mon orientation professionnelle est disponible ici :
 
-👉 Lien vers mon portfolio  
-(ton futur repo ici)
+👉 [Mon Portfolio](LIEN_VERS_PORTFOLIO) 
 
 ---
 
-## 🎯 Objectif
-
-Évoluer vers un poste à responsabilités dans les domaines des systèmes, réseaux et de la cybersécurité.
+📫 Me contacter  
+[LinkedIn](https://www.linkedin.com/in/bianchini-nicolas)
