@@ -23,10 +23,10 @@ J’ai conçu une infrastructure complète en haute disponibilité comprenant :
 • Durcissememnt Réseau et Système
 
 
-
-
 👉 Documentation complète :  
 [Secure Infrastructure – HA](https://github.com/Nicolas-bianchini/Secure-Infrastructure-HA)
+
+
 
 ---
 
