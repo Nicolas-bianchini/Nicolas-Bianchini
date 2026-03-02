@@ -2,7 +2,7 @@
 
 ## 👋 Bienvenue sur mon GitHub.
 
-### Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a la sécurisation des infrastructures et à la cybersécurité.
+#### Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a la sécurisation des infrastructures et à la cybersécurité.
 
 Ici, je conçois et documente des environnements virtualisés avec une approche orientée sécurité et haute disponibilité.
 
