@@ -19,7 +19,9 @@ J’ai conçu une infrastructure complète en haute disponibilité comprenant :
 • Accès distant sécurisé via VPN  
 • Environnement Active Directory  
 • Service exposé en DMZ  
-• Supervision et stratégie de sauvegarde  
+• Supervision et stratégie de sauvegarde
+• Durcissememnt Réseau et Système
+
 
 👉 Documentation complète :  
 [Secure Infrastructure – HA](https://github.com/Nicolas-bianchini/Secure-Infrastructure-HA)
