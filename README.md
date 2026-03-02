@@ -16,7 +16,6 @@ J’ai conçu une infrastructure complète en haute disponibilité comprenant :
 
 • Pare-feu en HA (CARP)  
 • Segmentation réseau (vSwitch) 
-
 • Accès distant sécurisé via VPN  
 • Environnement Active Directory  
 • Service exposé en DMZ  
