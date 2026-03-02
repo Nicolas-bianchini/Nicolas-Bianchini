@@ -34,7 +34,7 @@
 
 #### Une présentation plus détaillée de mon parcours, de mes projets et de mon orientation professionnelle est disponible ici :
 
-#### 👉 [Mon Portfolio](LIEN_VERS_PORTFOLIO) 
+#### 👉 [Mon Portfolio](https://github.com/Nicolas-bianchini/nicolas-cybersecurity-portfolio)
 
 ---
 
