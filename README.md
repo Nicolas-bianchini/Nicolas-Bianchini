@@ -10,6 +10,8 @@ Ici, je conçois et documente des environnements virtualisés avec une approche 
 
 ---
 
+
+
 ## 🔒 Projet principal
 
 J’ai conçu une infrastructure complète en haute disponibilité comprenant :
@@ -25,8 +27,6 @@ J’ai conçu une infrastructure complète en haute disponibilité comprenant :
 
 👉 Documentation complète :  
 [Secure Infrastructure – HA](https://github.com/Nicolas-bianchini/Secure-Infrastructure-HA)
-
-
 
 ---
 
