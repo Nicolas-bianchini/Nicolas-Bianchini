@@ -39,4 +39,5 @@
 ---
 
 ## 📫 Pour me contacter  
-#### [LinkedIn](https://www.linkedin.com/in/bianchini-nicolas)
+#### 🔗 [LinkedIn](https://www.linkedin.com/in/bianchini-nicolas)
+#### ✉️ Email : [nbianchini.professionnel@gmail.com](mailto:nbianchini.professionnel@gmail.com) 
