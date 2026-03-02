@@ -6,7 +6,7 @@
 
 #### Ici, je conçois et documente des environnements virtualisés avec une approche orientée sécurité et haute disponibilité.
 
-#### 🌱 J’approfondis actuellement mes compétences en architecture réseau, administration systèmes et cybersécurité défensive / offensive
+#### 🌱 J’approfondis actuellement mes compétences en architecture réseau, en administration systèmes et en cybersécurité.
 
 ---
 
