@@ -16,7 +16,7 @@
 
 <br>
 <br>
-
+***
 <h3 align="left">📁 Portfolio</h3>
 
 #### Une présentation plus détaillée de mon parcours, de mes projets et de mon orientation professionnelle est disponible ici :
