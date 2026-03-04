@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" width="100%">
+  <img src="banner.png" style="width:100%; margin:0; padding:0;">
 </p>
 
 # Bonjour, je suis Nicolas Bianchini
