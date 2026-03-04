@@ -14,7 +14,13 @@
 
 ---
 
+## 📁 Portfolio
 
+#### Une présentation plus détaillée de mon parcours, de mes projets et de mon orientation professionnelle est disponible ici :
+
+#### 👉 [Mon Portfolio][(https://github.com/Nicolas-bianchini/nicolas-cybersecurity-portfolio)](https://nicolas-bianchini.github.io/Nicolas-Cybersecurity-Portfolio/)
+
+---
 
 ## 🔒 Projet principal
 
@@ -31,14 +37,6 @@
 
 #### 👉 Documentation complète :  
 #### [Secure Infrastructure – HA](https://github.com/Nicolas-bianchini/Secure-Infrastructure-HA)
-
----
-
-## 📁 Portfolio
-
-#### Une présentation plus détaillée de mon parcours, de mes projets et de mon orientation professionnelle est disponible ici :
-
-#### 👉 [Mon Portfolio][(https://github.com/Nicolas-bianchini/nicolas-cybersecurity-portfolio)](https://nicolas-bianchini.github.io/Nicolas-Cybersecurity-Portfolio/)
 
 ---
 
