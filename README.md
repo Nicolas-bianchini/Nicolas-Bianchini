@@ -8,7 +8,7 @@
 
 <br>
 
-🎓​ Étudiant en BTS SIO (SISR), cela fait maintenant 5 ans que je cotoie le monde professionnel a travers **mon status d'apprenti.**
+🎓​ Étudiant en BTS SIO (SISR), cela fait maintenant 5 ans que je cotoie le monde professionnel a travers **mon statu d'apprenti.**
 
 Ici, je conçois et documente des environnements virtualisés avec une approche **orientée sécurité et bonnes pratiques d'entreprise.**
 
