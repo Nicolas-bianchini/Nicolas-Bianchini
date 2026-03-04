@@ -8,11 +8,11 @@
 
 <br>
 
-🎓​ Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a **la sécurisation des infrastructures et à la cybersécurité.**
+🎓​ Étudiant en BTS SIO (SISR), cela fait maintenant 5 ans que je cotoie le monde professionnel a travers **mon status d'apprenti.**
 
 Ici, je conçois et documente des environnements virtualisés avec une approche **orientée sécurité et bonnes pratiques d'entreprise.**
 
-🌱 J’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
+🌱 Passioné et envie d'apprendre, j’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
 
 <br>
 <br>
