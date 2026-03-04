@@ -5,6 +5,8 @@
 <h1 align="center">Bonjour 👋, je suis Nicolas Bianchini</h1>
 <h3 align="center">Bienvenue sur mon Github</h3>
 
+---
+
 #### Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a la sécurisation des infrastructures et à la cybersécurité.
 
 #### Ici, je conçois et documente des environnements virtualisés avec une approche orientée sécurité et bonnes pratiques d'entreprise
