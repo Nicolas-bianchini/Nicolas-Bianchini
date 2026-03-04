@@ -6,7 +6,7 @@
 <h3 align="center">Bienvenue sur mon Github</h3>
 <img align="right" alt="Coding" width="400" src="Banner2.gif">
 
-
+<br>
 
 #### Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a la sécurisation des infrastructures et à la cybersécurité.
 
