@@ -8,11 +8,11 @@
 
 <br>
 
-🎓​ Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a ""la sécurisation des infrastructures et à la cybersécurité.""
+🎓​ Étudiant en BTS SIO (SISR), je m’intéresse particulièrement a **la sécurisation des infrastructures et à la cybersécurité.**
 
-Ici, je conçois et documente des environnements virtualisés avec une approche ""orientée sécurité et bonnes pratiques d'entreprise.""
+Ici, je conçois et documente des environnements virtualisés avec une approche **orientée sécurité et bonnes pratiques d'entreprise.**
 
-🌱 J’approfondis actuellement mes compétences ""en architecture réseau, en administration systèmes et en cybersécurité.""
+🌱 J’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
 
 <br>
 <br>
