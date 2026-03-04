@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="Banner.png" width="100%">
 </p>
 
