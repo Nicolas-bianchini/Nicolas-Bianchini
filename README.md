@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif)
+<p align="center">
+  <img src="Banner.gif" width="100%">
+</p>
 
 # Bonjour, je suis Nicolas Bianchini
 
