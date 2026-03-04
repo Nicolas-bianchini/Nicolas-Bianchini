@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # Bonjour, je suis Nicolas Bianchini
 
 ## 👋 Bienvenue sur mon GitHub.
