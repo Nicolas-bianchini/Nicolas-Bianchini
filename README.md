@@ -12,9 +12,9 @@
 
 Ici, je conçois et documente des environnements virtualisés avec une approche **orientée sécurité et bonnes pratiques d'entreprise.**
 
-🌱 Passioné et envie d'apprendre, j’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
+🌱 Passioné et soif d'apprentissage, j’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
 
-🎯 **Recherche d'une alternance en cybersécurité / systèmes et réseaux pour 2026**
+🎯 **Je suis à la recherche d'une alternance en cybersécurité / systèmes et réseaux pour 2026**
 
 <br>
 <br>
