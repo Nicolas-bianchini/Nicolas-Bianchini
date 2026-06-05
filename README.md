@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="BANNER15.gif" width="100%">
+  <img src="Banner.gif" width="100%">
 </p>
-
 <h1 align="center">Bonjour 👋, je suis Nicolas Bianchini</h1>
 <h3 align="center">Bienvenue sur mon Github</h3>
 <img align="right" alt="Coding" width="400" src="Banner7.gif">
