@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner15.gif" width="50%">
+  <img src="BANNER15.gif" width="50%">
 </p>
 
 <h1 align="center">Bonjour 👋, je suis Nicolas Bianchini</h1>
