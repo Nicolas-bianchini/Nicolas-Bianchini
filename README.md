@@ -1,7 +1,5 @@
-<p align="left">
-  <img src="BANNER8.gif" width="100%">
-<p align="right">
-  <img src="BANNER2.gif" width="35%">
+<p align="center">
+  <img src="Banner11.gif" width="100%">
 </p>
 
 <h1 align="center">Bonjour 👋, je suis Nicolas Bianchini</h1>
