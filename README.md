@@ -4,7 +4,7 @@
 
 <h1 align="center">Bonjour 👋, je suis Nicolas Bianchini</h1>
 <h3 align="center">Bienvenue sur mon Github</h3>
-<img align="right" alt="Coding" width="400" src="Banner2.gif">
+<img align="right" alt="Coding" width="400" src="Banner3.gif">
 
 <br>
 
