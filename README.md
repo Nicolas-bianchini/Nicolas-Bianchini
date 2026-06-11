@@ -7,9 +7,9 @@
 
 <br>
 
-🎓​ Étudiant en BTS SIO (SISR), cela fait maintenant 5 ans que je cotoie le monde professionnel a travers **mon statut d'apprenti.**
+🎓​ Étudiant en Bachelor Cybersécurité, cela fait maintenant 5 ans que je cotoie le monde professionnel a travers **mon statut d'apprenti.**
 
-Ici, je conçois et documente des environnements virtualisés avec une approche **orientée sécurité et bonnes pratiques d'entreprise.**
+Ici, je conçois et documente des environnements informatique avec une approche **orientée sécurité et bonnes pratiques d'entreprise.**
 
 🌱 Passioné et soif d'apprentissage, j’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
 
