@@ -13,8 +13,6 @@ Ici, je conçois et documente des environnements informatique avec une approche 
 
 🌱 Passioné et soif d'apprentissage, j’approfondis actuellement mes compétences **en architecture réseau, en administration systèmes et en cybersécurité.**
 
-
-
 <br>
 <br>
 
